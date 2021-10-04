@@ -2,6 +2,6 @@
 
 작성 예정 알고리즘
 
-*Dijkstra
-*Prim
-*Floyd-Warshall
+* Dijkstra
+* Prim
+* Floyd-Warshall
