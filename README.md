@@ -4,7 +4,11 @@
 
 * Dijkstra
 * Prim
+* Kruskal
 * Floyd-Warshall
+* Union-Find
+* Segment Tree
+* LCS
 
 ## 작성 완료 알고리즘
 
