@@ -12,3 +12,4 @@
 
 ## 작성 완료 알고리즘
 
+* [fastIO](https://github.com/Yaminyam/Algorithm-cheat-sheet/tree/main/fastIO)
