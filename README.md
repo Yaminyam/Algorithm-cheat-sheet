@@ -9,6 +9,7 @@
 * Union-Find
 * Segment Tree
 * LCS
+* Permutation
 
 ## 작성 완료 알고리즘
 
